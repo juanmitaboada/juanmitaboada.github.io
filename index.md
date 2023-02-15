@@ -2,7 +2,7 @@
 layout: default
 ---
 
-Here you can find some useful information
+Here you can find ways to contact me, hints about my professional career, and what I do in my spare time.
 
 # Personal Information
 
@@ -30,9 +30,9 @@ Here you can find some useful information
 
 # What do I do?
 
-- Mainly, I write any kind of software in C and Python to support massive data processing in real time at [Veturis](http://www.veturis.es)
+- Mainly, I write software in C and Python to support massive data processing in real-time at [Veturis](http://www.veturis.es)
 
-- In my spare time, I am developing my own ROV Drone Submarine developed only with microcontrollers (Arduino, ESP32 & Raspberry Pi Pico). Entirely developed from scratch.
+- In my spare time, I am developing my own ROV Drone Submarine developed only with microcontrollers (Arduino, ESP32 & Raspberry Pi Pico). I developed it from scratch.
 
 - As a Director in Centrologic we became a compact team of 10 people. We mainly developed [CODENERIX](https://www.codenerix.com) and built tools for Enterprise Resource Planning for middle-size companies. In the meantime, we also became official providers for Google Workspace with a top 150 unique clients.
 
@@ -47,6 +47,6 @@ Here you can find some useful information
 # Participation in communities and events
 
 - I have been an official member of Linux Málaga from 1999
-- I was president of Málaga Wireless Cultural Association
+- I was president of the Málaga Wireless Cultural Association
 - I was vice president of ANURI (National Association for Wireless Network Users) for three years
 - I have collaborated with different ONGs and associations like ASIMA, ASOLIF, TEDxMálaga, Amirax, ACNUR, Asociación Jacobea de Málaga, EDUCO & Manos Unidas.
