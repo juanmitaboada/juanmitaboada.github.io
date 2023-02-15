@@ -2,14 +2,13 @@
 layout: default
 ---
 
-# Juanmi Taboada
+Here you can find some useful information
 
-## Personal Information
+# Personal Information
 
-- Name: Juanmi Taboada
 - About me: https://www.juanmitaboada.com/about-me/
 
-## Contacto
+# Contact
 
 - Web: https://www.juanmitaboada.com
 - Telegram: https://t.me/juanmitaboada/
@@ -22,14 +21,14 @@ layout: default
 - Instagram: https://www.instagram.com/br0th3rivery/
 - Mastodon: https://malaga.social/@juanmitaboada
 
-## Professional profile
+# Professional profile
 
 - Software architect
 - Before I was the Director & CEO of Centrologic Computational Logistic Center
 - I teach Python
 - I am developing my submarine
 
-## What do I do?
+# What do I do?
 
 - Mainly, I write any kind of software in C and Python to support massive data processing in real time at [Veturis](http://www.veturis.es)
 
@@ -39,13 +38,13 @@ layout: default
 
 - Nowadays, I also collaborate with Andalusea Submarine Robotics in any event that happens during weekends, and I have been a pilot for Submarine ROVs in Open Water.
 
-## My hobbies
+# My hobbies
 
 - Build my submarine
 - I have been doing Yoga weekly from 2016
 - I go scuba diving twice a month (I am an advanced certified scuba diver, and I also have Nitrox certification)
 
-## Participation in communities and events
+# Participation in communities and events
 
 - I have been an official member of Linux Málaga from 1999
 - I was president of Málaga Wireless Cultural Association
