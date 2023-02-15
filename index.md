@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Juanmi Taboada
 
 ## Personal Information
