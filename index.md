@@ -6,20 +6,20 @@ Here you can find ways to contact me, hints about my professional career, and wh
 
 # Personal Information
 
-- About me: https://www.juanmitaboada.com/about-me/
+- About me: [https://www.juanmitaboada.com/about-me/](https://www.juanmitaboada.com/about-me/)
 
 # Contact
 
-- Web: https://www.juanmitaboada.com
-- Telegram: https://t.me/juanmitaboada/
-- Github: https://github.com/juanmitaboada
-- Stackoverflow: https://stackoverflow.com/users/1481040/juanmi-taboada
+- Web: [https://www.juanmitaboada.com](https://www.juanmitaboada.com)
+- Telegram: [https://t.me/juanmitaboada/](https://t.me/juanmitaboada/)
+- Github: [https://github.com/juanmitaboada](https://github.com/juanmitaboada)
+- Stackoverflow: [https://stackoverflow.com/users/1481040/juanmi-taboada](https://stackoverflow.com/users/1481040/juanmi-taboada)
 - Twitter: [@juanmitaboada](https://twitter.com/juanmitaboada)
-- Spotify: https://open.spotify.com/user/br0th3r
-- Linkedin: https://www.linkedin.com/in/juanmitaboada/
-- Facebook: https://www.facebook.com/juanmitaboada
-- Instagram: https://www.instagram.com/br0th3rivery/
-- Mastodon: https://malaga.social/@juanmitaboada
+- Spotify: [https://open.spotify.com/user/br0th3r](https://open.spotify.com/user/br0th3r)
+- Linkedin: [https://www.linkedin.com/in/juanmitaboada/](https://www.linkedin.com/in/juanmitaboada/)
+- Facebook: [https://www.facebook.com/juanmitaboada](https://www.facebook.com/juanmitaboada)
+- Instagram: [https://www.instagram.com/br0th3rivery/](https://www.instagram.com/br0th3rivery/)
+- Mastodon: [https://malaga.social/@juanmitaboada](https://malaga.social/@juanmitaboada)
 
 # Professional profile
 
