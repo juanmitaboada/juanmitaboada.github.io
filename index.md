@@ -15,7 +15,7 @@ Here you can find ways to contact me, hints about my professional career, and wh
 - [Telegram](https://t.me/juanmitaboada/)
 - [Github](https://github.com/juanmitaboada)
 - [Stackoverflow](https://stackoverflow.com/users/1481040/juanmi-taboada)
-- [Twitter: @juanmitaboada](https://twitter.com/juanmitaboada)
+- [Twitter](https://twitter.com/juanmitaboada)
 - [Spotify](https://open.spotify.com/user/br0th3r)
 - [Linkedin](https://www.linkedin.com/in/juanmitaboada/)
 - [Facebook](https://www.facebook.com/juanmitaboada)
