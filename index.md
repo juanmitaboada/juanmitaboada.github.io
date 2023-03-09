@@ -35,7 +35,7 @@ Here you can find ways to contact me, hints about my professional career, and wh
 
 - In my spare time, I am developing my own ROV Drone Submarine developed only with microcontrollers (Arduino, ESP32 & Raspberry Pi Pico). I developed it from scratch.
 
-- As a Director in Centrologic we became a compact team of 10 people. We mainly developed [CODENERIX](https://www.codenerix.com) and built tools for Enterprise Resource Planning for middle-size companies. In the meantime, we also became official providers for Google Workspace with a top 150 unique clients.
+- As a Director in Centrologic we became a compact team of 10 people. We mainly developed [CODENERIX](https://www.codenerix.com) and built tools for Enterprise Resource Planning for middle-size companies. In the meantime, we also became official providers for Google Workspace with a top 150 clients.
 
 - Nowadays, I also collaborate with Andalusea Submarine Robotics in any event that happens during weekends, and I have been a pilot for Submarine ROVs in Open Water.
 
@@ -47,6 +47,7 @@ Here you can find ways to contact me, hints about my professional career, and wh
 
 # Participation in communities and events
 
+- I am an official maintainer of [CODENERIX](https://github.com/codenerix/)
 - I have been an official member of Linux Málaga from 1999
 - I was president of the Málaga Wireless Cultural Association
 - I was vice president of ANURI (National Association for Wireless Network Users) for three years
