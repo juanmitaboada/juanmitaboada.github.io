@@ -35,6 +35,8 @@ Here you can find ways to contact me, hints about my professional career, and wh
 
 - In my spare time, I am developing my own [ROV Drone Submarine](https://www.juanmitaboada.com/alioli-rov-submarine-drone-diary/) developed only with microcontrollers (Arduino, ESP32 & Raspberry Pi Pico). I developed it from scratch.
 
+- I am an active member of [OpenSouthCode](https://www.opensouthcode.org), a free event to promote and publicize open technologies: free software/hardware and OpenSource that has been held in Málaga (Spain) since 2016.
+
 - As a Director in Centrologic we became a compact team of 10 people. We mainly developed [CODENERIX](https://www.codenerix.com) and built tools for Enterprise Resource Planning for middle-size companies. In the meantime, we also became official providers for Google Workspace with a top 150 clients.
 
 - Nowadays, I also collaborate with [Andalusea Submarine Robotics](https://andalu-sea.com/) in any event that happens during weekends, and I have been a pilot for Submarine ROVs in Open Water.
@@ -49,6 +51,7 @@ Here you can find ways to contact me, hints about my professional career, and wh
 
 - I am an official maintainer of [CODENERIX](https://github.com/codenerix/)
 - I have been an official member of [Linux Málaga](http://www.linux-malaga.org/) from 1999
+- I have been an official member of [OpenSouthCode](https://www.opensouthcode.org) from 2016
 - I was president of the Málaga Wireless Cultural Association
 - I was vice president of ANURI (National Association for Wireless Network Users) for three years  ([ANURI & RedLibre](https://es.wikipedia.org/wiki/RedLibre))
 - I have collaborated with different ONGs and associations like [ASIMA](https://www.asima.org/), [ASOLIF](https://es.wikipedia.org/wiki/Asolif), [TEDxMálaga](https://tedxmalaga.com/), [Amirax](https://www.amirax.org/), [ACNUR](https://www.acnur.org/), [Asociación Jacobea de Málaga](https://caminomozarabedemalaga.com/), [EDUCO](https://www.educo.org/) & [Manos Unidas](https://www.manosunidas.org/).
