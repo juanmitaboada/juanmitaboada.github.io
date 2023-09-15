@@ -18,7 +18,7 @@
 
     <header class="page-header" role="banner">
       <h1 class="project-name">
-          <img src="{{page.logo}}" style="margin-bottom: -50px;">
+          <img src="{{site.logo}}" style="margin-bottom: -{{site.logo_negative_margin_bottom}}px;">
           {{ page.title | default: site.title | default: site.github.repository_name }}
       </h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
